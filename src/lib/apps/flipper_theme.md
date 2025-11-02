@@ -1,6 +1,7 @@
 ---
 id: flipper_theme
-title: Flipper Theme
+title: Flipper Themedo_hack
+
 subtitle: A flipper zero based theme for Bruce
 author: mostixgrand
 repository: ''
