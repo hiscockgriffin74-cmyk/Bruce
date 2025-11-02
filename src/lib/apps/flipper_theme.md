@@ -1,4 +1,4 @@
----
+do_hacks---
 id: flipper_theme
 title: Flipper Theme
 subtitle: A flipper zero based theme for Bruce
